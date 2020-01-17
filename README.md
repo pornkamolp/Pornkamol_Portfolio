@@ -2,6 +2,8 @@
 My portfolio for Telling Story with Data at CMU
 
 # About Me
+I am Pornkamol Prapapornvorakul. What a long Thai name!  Fah is my nickname so you might call me by "Fah".
+
 I'm pursuing my Master's degree in Integrated Innovation for Products and Services at Carnegie Mellon University, with the passion for utilizing 'design' extensively in diverse industries and delivering real and attainable values to the people as well as to the society.
 
 I have a bachelor's degree in industrial design, with an emphasis on human-centered design, and working experiences in a fin-tech industry as a UX/UI designer.  My hobby is doodling and note-taking in a fun way!
