@@ -1,6 +1,6 @@
 
 # Assignment: WEEK 02
-<font color = "#45c2b1">26 January 2020</font> <br>
+<font color = "#grey">26 January 2020</font> <br>
 [Back to main page](/README.md)
 
 <br>
