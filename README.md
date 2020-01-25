@@ -5,7 +5,7 @@ My portfolio for Telling Story with Data at CMU
 
 Picture | Second Header
 ------------ | -------------
-[Assignment Week 2](/week2.md) | Content from cell 2
+[Assignment Week 2](/Week2.md) | Content from cell 2
 
 
 # About Me
