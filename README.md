@@ -36,3 +36,6 @@ The data available for the second chart should allow the audience to both compar
 
 Therefore, the key area that I want to improve for the third chart is to allow comparison and reduce distraction.
 </p>
+
+- [x] Allow Comparicon
+- [ ] Reduce Distraction
