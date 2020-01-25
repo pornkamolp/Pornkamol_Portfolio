@@ -15,4 +15,4 @@ My work as a UX researcher requires a lot of presentation which should well illu
 Comming so soon... :)
 
 
-<iframe src="https://data.oecd.org/chart/5OVN" width="600" height="450" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OVN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015 – 2018</a></iframe>
+<iframe src="https://data.oecd.org/chart/5OVN" width="800" height="450" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OVN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015 – 2018</a></iframe>
