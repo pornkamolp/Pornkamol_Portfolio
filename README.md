@@ -13,10 +13,8 @@ My work as a UX researcher requires a lot of presentation which should well illu
 
 # Portfolio
 
-<b>ASSIGNMENT : WEEK 02</b>
+<font color ="red" size="5" ><b>ASSIGNMENT : WEEK 02</b></font>
 
-
-<font size="8">This is some text!</font>
 
 <iframe src="https://data.oecd.org/chart/5OVN" width="800" height="450" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OVN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015 – 2018</a></iframe>
 
