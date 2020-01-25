@@ -2,7 +2,11 @@
 My portfolio for Telling Story with Data at CMU
 
 # Assignment
-[Assignment Week 2](/week 2.md)
+
+Picture | Second Header
+------------ | -------------
+[Assignment Week 2](/week 2.md) | Content from cell 2
+
 
 # About Me
 I am Pornkamol Prapapornvorakul. What a long Thai name!  Fah is my nickname so you might call me by "Fah".
