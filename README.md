@@ -14,6 +14,11 @@ My work as a UX researcher requires a lot of presentation which should well illu
 # Portfolio
 
 <font color = "#45c2b1" size="5" ><b>Assignment: WEEK 02</b></font>
+26 January 2020
+
+<p>
+This week, I have the chance to explore data about the general government debt from OECE data.  The data represent the government debt-to-GDP ratio, which measures the gross debt as a percentage of GDP by country for 1995 - 2018.  In the first chart, by OECE, only data from 2018 or the latest year are compared while in the second chart, by RWAGraphs, all available data from 1995 to 2018 are shown
+</p>
 
 <p>
 <iframe src="https://data.oecd.org/chart/5OVN" width="860" height="450" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OVN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015 – 2018</a></iframe>
