@@ -88,5 +88,16 @@ From the rationales I discussed, the significant issues are about how efficient 
 
 <p>Overall, they suggested that there should be a more apparent distinction between the recorded and predicted data. </p>
 
+### 3.2 Improvement
+<p>I will continue with the overlap idea from version 2 to avoid confusion with the third line of the first concept. However, I will emphasize more on the “difference area,” not the intersection of the areas under two graphs. Moreover, I will make it more noticeable that there are both recorded data and predictions.</p>
+
+# 4. Final Design
+<p>In the final design, besides the raw data, I aim to convey the insight that if the numbers of births and deaths come closer to each other, the population in the world will become more stable. Therefore, the significant improvement is the grey shade that is applied to attract audiences’ attention to notice that the difference between the number of births and deaths is reducing. Moreover, I changed the topic into a more contextual style.</p>
+
+![Screenshot](Final_used.png)
+
+
+
+
  
 
