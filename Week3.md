@@ -3,9 +3,9 @@
 [Back to main page](/README.md)
 
 
-# The data
+# 1. The data
 
-### The data I chose
+### 1.1 The data I chose
 
 <p>
 The data visualisation I chose is in the passage about “How many people die and how many are born each year?” Which is published by Our world in data. [https://ourworldindata.org/births-and-deaths](/https://ourworldindata.org/births-and-deaths)
@@ -22,10 +22,11 @@ https://ourworldindata.org/grapher/number-of-deaths-per-year
 ![Screenshot](OriginalGraph2.png)
   
 
-### The design critique
+### 1.2 The design critique
 
 <p>
 After I review the grahps together with the surrounding text, I analysed through several aspects using Stephen Few's Data Visualization Effectiveness Profile.
+</p>
 <p>
 Usefulness - 7: The audiences of the site like Our world in data might have particular interest in data or professionals who seeks references to other contents. Therefore, to provide a thorough aspect of data (separated death and birth dataset) is useful because this allows the audiences to interpret and utilize further for different purposes. However, to illustrate the insight from these two separate graphs, users still need some effort.
 </p>
@@ -45,15 +46,15 @@ Perceptibility - 9: The line graph is simple to illustrate trends and does not c
 <p>Engagement - 7: Because what I have mentioned in the completeness section about the inability to convey the main insight, it loses the opportunity to encourage the audience to discuss further. Moreover, the topic of the graph is redundant with the information it conveys and does not help to point out what might be an interesting insight from the data.
 </p>
 
-### What I want to improve
+### 1.3 What I want to improve
 
 <p>
 From the rationales I discussed, the significant issues are about how efficient the graph can convey the insight about the impact of these births and deaths rate. However, the context or the media these graphs are published may be the reason why the designer has designed the graph this way. For example, the aim of the website may be to purely provide no or minimal interpretation and to avoid bias. To me, I would like to highlight this insight and make the graph easier to interpret for the mass.
 </p>
 
-# Ideation and Wireframe
+# 2. Ideation and Wireframe
 
-### The context
+### 2.1 The context
 
 ![Screenshot](laptopscreen.png)
 
@@ -62,7 +63,7 @@ From the rationales I discussed, the significant issues are about how efficient 
 
 ![Screenshot](Wireframe.png)
 
-### The graph sketches
+### 2.2 The graph sketches
 
 <p>I used Tableau to draft the mockup and Adobe Illustrator to make some adjustments to my mockup (sketches). The two concepts I created are one with an additional line for “difference” (Yellow line) and another one with shading to help emphasizing the differences in the areas.
  </p>
@@ -74,5 +75,18 @@ From the rationales I discussed, the significant issues are about how efficient 
   <b>Concept 02:</b><br>
   
 ![Screenshot](Sketch02.png)
+
+# 3. Testing
+
+### 3.1 Insights
+
+<p>I then tested my graph with two audiences who are general audiences (do not have careers related to data). There are several insights from each design. </p>
+
+<p>For the first graph with an additional line for the difference in number, they perceived that the yellow line is not related or belongs to the birth and death line. This requires them some times to learn what the graph is trying to communicate, and this further worsens the problem that users cannot interpret the insight. Moreover, to them, the data about the difference seems to be in another category when compared to the number of death and birth. </p>
+
+<p>The second version received a bit better response for the interpretation. They can more easily notice the difference in the numbers I want to convey. However, the element that can confuse them is the shading. If they did not carefully see the overlap areas with both blue and red shades, they might think that only the blue region on the top represents births. (stating at 50M not at 0M) </p>
+
+<p>Overall, they suggested that there should be a more apparent distinction between the recorded and predicted data. </p>
+
  
 
