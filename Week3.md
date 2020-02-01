@@ -1,4 +1,4 @@
-# Assignment: WEEK 03
+# Assignment 3 & 4
 02 Febuary 2020<br>
 [Back to main page](/README.md)
 
@@ -44,7 +44,13 @@ Perceptibility - 9: The line graph is simple to illustrate trends and does not c
 <p>Engagement - 7: Because what I have mentioned in the completeness section about the inability to convey the main insight, it loses the opportunity to encourage the audience to discuss further. Moreover, the topic of the graph is redundant with the information it conveys and does not help to point out what might be an interesting insight from the data.
   
   
-## What I want to improve
+### What I want to improve
 <p>
 From the rationales I discussed, the significant issues are about how efficient the graph can convey the insight about the impact of these births and deaths rate. However, the context or the media these graphs are published may be the reason why the designer has designed the graph this way. For example, the aim of the website may be to purely provide no or minimal interpretation and to avoid bias. To me, I would like to highlight this insight and make the graph easier to interpret for the mass.
 </p>
+
+## Ideation and Wireframe
+### The context
+<p>The key insight is about the overall growth in population, which derives from the difference in the number of births and deaths in each year. The existing location of the graph on the screen makes it difficult to compare the number of births and deaths because the audiences cannot see both figures at the same time or in one screenshot (Both in the computer screens or mobile devices). Scrolling back and forth is also troublesome. Therefore, I decided to design a new graph which combines information about births and deaths. This way, users will be able to compare the information within one screenshot in which the chart is published among the text.
+</p>
+![Screenshot](laptopscreen.png)
