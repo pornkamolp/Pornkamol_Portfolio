@@ -8,15 +8,14 @@
 ### 1.1 The data I chose
 
 <p>
-The data visualisation I chose is in the passage about “How many people die and how many are born each year?” Which is published by Our world in data. [https://ourworldindata.org/births-and-deaths](/https://ourworldindata.org/births-and-deaths)
+The data visualisation I chose is in the passage about “How many people die and how many are born each year?” Which is published by Our world in data.</p>
 https://ourworldindata.org/births-and-deaths
-</p>
+
 
 <p>
-Two charts that I focus on are the line graphs about the Number of birth per year (World) and the Number of death per year (World). I chose these visualizations because I can see rooms for development, and the insight convey from these graphs can bring about several opportunities and understandings.  For instance, what social trends might emerge from the change in birth and death rate or what we could prepare for the less growth rate in global populations etc.
+Two charts that I focus on are the line graphs about the Number of birth per year (World) and the Number of death per year (World). I chose these visualizations because I can see rooms for development, and the insight convey from these graphs can bring about several opportunities and understandings.  For instance, what social trends might emerge from the change in birth and death rate or what we could prepare for the less growth rate in global populations etc.</p>
 https://ourworldindata.org/grapher/number-of-births-per-year <br>
 https://ourworldindata.org/grapher/number-of-deaths-per-year
-</p>
 
 ![Screenshot](OriginalGraph1.png)
 ![Screenshot](OriginalGraph2.png)
