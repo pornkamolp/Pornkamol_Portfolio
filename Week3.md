@@ -23,6 +23,7 @@ https://ourworldindata.org/grapher/number-of-deaths-per-year
 
 
 ### The design critique
+
 <p>
 After I review the grahps together with the surrounding text, I analysed through several aspects using Stephen Few's Data Visualization Effectiveness Profile.
 <p>
@@ -45,11 +46,13 @@ Perceptibility - 9: The line graph is simple to illustrate trends and does not c
 </p>
   
 ### What I want to improve
+
 <p>
 From the rationales I discussed, the significant issues are about how efficient the graph can convey the insight about the impact of these births and deaths rate. However, the context or the media these graphs are published may be the reason why the designer has designed the graph this way. For example, the aim of the website may be to purely provide no or minimal interpretation and to avoid bias. To me, I would like to highlight this insight and make the graph easier to interpret for the mass.
 </p>
 
 # Ideation and Wireframe
+
 ### The context
 
 ![Screenshot](laptopscreen.png)
