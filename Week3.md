@@ -42,7 +42,7 @@ Perceptibility - 9: The line graph is simple to illustrate trends and does not c
 <p>Aesthetics - 8: The graphs look nice, but some issues about spacing and typography selection reduces the total score in this area. The space between the subtopic or the description and the line graph in the number of births graph is too narrow that the information from the line is distracted. The font used in the subheading can be too small, and there are too many font styles in this small simple chart/
 
 <p>Engagement - 7: Because what I have mentioned in the completeness section about the inability to convey the main insight, it loses the opportunity to encourage the audience to discuss further. Moreover, the topic of the graph is redundant with the information it conveys and does not help to point out what might be an interesting insight from the data.
-  
+</p>
   
 ### What I want to improve
 <p>
