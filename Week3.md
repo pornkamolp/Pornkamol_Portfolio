@@ -8,7 +8,7 @@
 ### 1.1 The data I chose
 
 <p>
-The data visualisation I chose is in the passage about “How many people die and how many are born each year?” Which is published by Our world in data.</p>
+The data visualisation I chose is in the passage about “How many people die and how many are born each year?” Which is published by Our world in data.  Form the origibal website, there is a dataset provided.  In the dataset, there are datas about number of births and death per year.  From 1950 to 2015, it is recorded data and, from 2015 to 2099, the data is predicted.</p>
 https://ourworldindata.org/births-and-deaths
 
 
