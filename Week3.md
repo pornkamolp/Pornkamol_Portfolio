@@ -69,7 +69,7 @@ From the rationales I discussed, the significant issues are about how efficient 
  
  <b>Concept 01:</b><br>
 
-![Screenshot](Sketch01.png)
+![Screenshot](New.png)
  
   <b>Concept 02:</b><br>
   
