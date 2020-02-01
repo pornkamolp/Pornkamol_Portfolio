@@ -53,4 +53,4 @@ From the rationales I discussed, the significant issues are about how efficient 
 ### The context
 <p>The key insight is about the overall growth in population, which derives from the difference in the number of births and deaths in each year. The existing location of the graph on the screen makes it difficult to compare the number of births and deaths because the audiences cannot see both figures at the same time or in one screenshot (Both in the computer screens or mobile devices). Scrolling back and forth is also troublesome. Therefore, I decided to design a new graph which combines information about births and deaths. This way, users will be able to compare the information within one screenshot in which the chart is published among the text.
 </p>
-![Screenshot](laptopscreen.png)
+![Screenshot](OriginalGraph1.png)
