@@ -34,7 +34,7 @@ Lastly, I will invite audience to use their empathy in the problem (after notici
 
 # 3. Initial Sketch
 
-![Screenshot](part1_2.png)
+![Screenshot](part1_2-01.png)
 
 # 4. Data Source
 <p>
