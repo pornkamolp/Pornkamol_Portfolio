@@ -1,4 +1,4 @@
-# Assignment 3 & 4
+# Final Project (Part 1)
 09 Febuary 2020
 <br>
 [Back to main page](/README.md)
