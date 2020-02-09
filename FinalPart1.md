@@ -7,7 +7,7 @@
 # 1. The project brief
 
 <p>
-Despite social media are believed to help connecting people together, it can also be a cause in loneliness and depression in teenagers.</p>
+Despite social media are believed to help connecting people together, it can also be a cause of loneliness and depression in teenagers.</p>
 
 
 # 2. Structure
