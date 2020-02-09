@@ -4,7 +4,8 @@ My portfolio for Telling Story with Data at CMU
 # Link to Assignment
 
 [Assignment 2](/Week2.md)<br>
-[Assignment 3 & 4](/Week3.md)
+[Assignment 3 & 4](/Week3.md)<br>
+[Final Project (Part 1)](/final_part1.md)
 
 # About Me
 I am Pornkamol Prapapornvorakul. What a long Thai name!  Fah is my nickname so you might call me by "Fah".
