@@ -49,3 +49,26 @@ Data source 2 (Is there a loneliness epidemic?) and Data source 3 (Depression am
 <p>
 Lastly, with the data in source 1 and source 2, I can create another data visualisation to compare the growth in social media and the growth in depression from time to time.
 </p>
+
+### Reference
+
+
+Data source 1: The rise of social media <br>
+https://ourworldindata.org/rise-of-social-media <br><br>
+
+Data source 2: Is there a loneliness epidemic? <br>
+https://ourworldindata.org/loneliness-epidemic <br><br>
+
+Data source 3: Depression among Gen Z is skyrocketing <br>
+https://www.businessinsider.com/depression-rates-by-age-young-people-2019-3 <br><br>
+
+Supporting information <br>
+https://childmind.org/article/is-social-media-use-causing-depression/ <br>
+https://www.childtrends.org/indicators/young-adult-depression <br>
+https://www.pewresearch.org/internet/fact-sheet/social-media/ <br>
+
+
+# The media
+
+<p>The media I will be using is Shorthand because it allows me to split the information into chunks which will fit my different sections of content.  It also provide some animations while audiences are scrolling down which I think it could be helpful to create surprising moment to engage users.  For instance, when I will let them guess about the depression rate, the transition of the screen may help gradually provide the answers to the audience.  Lastly, I have never used this media before and found that it could be powerful.  Therefore, I would like to take this chance to learn more about the tool.
+ </p>
