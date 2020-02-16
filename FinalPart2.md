@@ -64,3 +64,55 @@ There are 3 participants in this user research session. The first one is a woman
 <p>
 My method is to walk through the screen wireframe and show my participants a chart when it is relevant. Moreover, I always remind them to ask a question whenever they do not understand. The objective is to find out if the message I try to convey is clear and if easy for them to comprehend. What some of the obstructions which lead to their confusion are.  I try not to use too many questions but ask why after each answer to dig deeper in their understanding. These are the example of my research sequence and problems.
 </p>
+
+![Screenshot](protocol.png)
+
+## 2.3 Overall Findings
+
+<p>“I kinda know that it can affect self-esteem because, to be honest, I sometimes feel that” - Participant 3</p>
+
+<p>“This makes me feel even more worried about social media. However, it’s good to know more about it so I can be aware” - Participant 1</p>
+
+<p>I have found several insights out of this research. One of them is that everyone has a sense that social media can negatively affect mental health but, before being shown this project, they have not expected that it can be this severe, especially for teenagers. However, one difference is that participant 1, who usually does not heavily use social media, feel more surprised about this fact because she does not know every feature in the platform.</p>
+
+# 3. Findings and Improvement
+
+## 3.1 Structure
+
+<p>After the user testing, I summarised the main areas that are needed to be developed and marked in the wireframe as following.</p>
+
+<br><br>
+![Screenshot](Phase_1.png)
+<br><br><br><br>
+![Screenshot](Phase_2.png)
+<br><br><br><br>
+![Screenshot](Phase_3.png)
+<br><br><br><br>
+
+## 3.2 Chart 1: Number of people using social media worldwide
+
+<p>There is no line for the total number of all platforms in the original chart.  However, the participant mentioned that all it can tell is that the number of users on any social media platform is increasing, but it is not significant.  Moreover, the effect from social media to mental health can derive from all platform types, so it can be better to include one line to show the overall trend.  Therefore, I added that line in the improved version and found out that it can help to emphasize the growth, especially after 2012.
+</p>
+
+![Screenshot](Chart1_before.png)
+![Screenshot](Chart1_after.png)
+
+## 3.3 Chart 2: People who use at least one social media platform by age group
+<p>
+At first, I thought that there is no need for different colors to be used here, and I wished to make the chart as simple as possible. However, from the participant’s comment, highlighting the 18-29 age group will help him focus on what I want to convey, which is that teenagers are the group that uses the social platform the most.
+</p>
+
+![Screenshot](Chart2_before.png)
+![Screenshot](Chart2_after.png)
+
+
+## 3.3 Chart 3: Depression rate in last 12 months by age groups
+
+<p>Initially, I left a gap in the heading of the chart to let the audience guess what the header is about.  The participants commented that this is not that surprising because the topic of the passage has already told them that is will be about depression.  Moreover, the line graph provided too much information that is not needed for introducing the relationship with depression.  For example, the changes throughout several years may not be essential and can be distracting.  Therefore, in the improved version, I change to let the audience match the age group with the bar chart (for only one year, 2017)
+</p>
+![Screenshot](Chart3_before.png)
+![Screenshot](Chart3_after1.png)
+![Screenshot](Chart3_after2.png)
+
+
+
