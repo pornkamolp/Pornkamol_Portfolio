@@ -110,9 +110,35 @@ At first, I thought that there is no need for different colors to be used here, 
 
 <p>Initially, I left a gap in the heading of the chart to let the audience guess what the header is about.  The participants commented that this is not that surprising because the topic of the passage has already told them that is will be about depression.  Moreover, the line graph provided too much information that is not needed for introducing the relationship with depression.  For example, the changes throughout several years may not be essential and can be distracting.  Therefore, in the improved version, I change to let the audience match the age group with the bar chart (for only one year, 2017)
 </p>
+
 ![Screenshot](Chart3_before.png)
 ![Screenshot](Chart3_after1.png)
 ![Screenshot](Chart3_after2.png)
 
+## 3.3 Chart 4: Relationship between social media and depression in teenagers
 
+<p>
+Because the values of monthly active users for social media and the percentage of young adults who experience depression are different in units, I cannot put two pieces of information into the same chart.  Therefore, the challenge is how to help audiences quickly compare and notice the relationship between this 2 information.  At first, I put one chart next to another but, after user testing, it is pointed out that it is hard to compare, and the critical information that users are looking for is the two information in the ‘same year.’  Therefore,  I re-align the chart to utilize the same ‘year’ axis, which will help audiences compare information within a particular point in time.
+</p>
+
+![Screenshot](Chart4_before.png)
+![Screenshot](Chart4_after.png)
+
+## 3.4 Chart 5: The uses of Instagram by age groups un the US (2019)
+
+<p>
+At first, I did not include this chart into the mockup.  However, due to a suggestion from a participant, I create another chart conveying information how much teenagers use image-driven social media platforms.
+</p>
+
+![Screenshot](Chart5.png)
+
+# 4. Draft
+<p>
+After all, the newly developed structure and the revised charts were uploaded into Shorthand. However, those are still drafts. The next step is to write content and description, finalize even chart, add all the data sources, add images, and make sure all the elements are in a consistent color scheme and design. 
+</p>
+<p>
+To access my draft, please follow the link below.<br>
+
+https://preview.shorthand.com/nTyAazNulekaydqh
+</p>
 
