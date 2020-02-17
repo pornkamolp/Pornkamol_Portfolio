@@ -112,8 +112,8 @@ At first, I thought that there is no need for different colors to be used here, 
 </p>
 
 ![Screenshot](Chart3_before.png)
-![Screenshot](Chart3_after1.png)
 ![Screenshot](Chart3_after2.png)
+![Screenshot](Chart3_after1.png)
 
 ## 3.3 Chart 4: Relationship between social media and depression in teenagers
 
