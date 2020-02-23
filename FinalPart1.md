@@ -1,4 +1,4 @@
-# Final Project (Part 1)
+# Final Project (Part 1: Project Proposal)
 09 Febuary 2020
 <br>
 [Back to main page](/README.md)
