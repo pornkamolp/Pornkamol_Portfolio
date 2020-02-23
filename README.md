@@ -19,6 +19,3 @@ I have a bachelor's degree in industrial design, with an emphasis on human-cente
 
 # What I hope to learn
 My work as a UX researcher requires a lot of presentation which should well illustrate the data in an easy but interesting way.  Information related to design can be complex by its nature since understanding users' behaviors and their thoughts might not be simple.  I love to create diagrams but sometimes I question if I have put too much data or how well it can convey meanings.  I hope to gain some new ideas for data visualization and reflect on my own works.
-
-# Portfolio
-Comming soon
