@@ -34,12 +34,22 @@ In this part, I moved on developing and finalizing the data visualization artifa
 In the final data visualization, there are multiple data sources and information references about social networks and depression that I utilized in the project as follows.
 </p>
 
+## 2.1 Data and References
+
 1. Journal of Abnormal Psychology, Twenge et al.<br>
 2. [https://childmind.org/article/is-social-media-use-causing-depression](https://childmind.org/article/is-social-media-use-causing-depression) <br>
 3. [https://www.pewresearch.org/internet/fact-sheet/social-media](https://www.pewresearch.org/internet/fact-sheet/social-media) <br>
 4. [https://www.businessinsider.com/depression-rates-by-age-young-people-2019-3](https://www.businessinsider.com/depression-rates-by-age-young-people-2019-3) <br>
 5. [https://ourworldindata.org/loneliness-epidemic](https://ourworldindata.org/loneliness-epidemic) <br>
 6. [https://ourworldindata.org/rise-of-social-media](https://ourworldindata.org/rise-of-social-media) <br>
+
+## 2.2 Materials
+
+Icons: People vector created by freepik - www.freepik.com <br>
+Images: Photo by Adrien Olichon from Pexels <br>
+Images: Photo by Sharon McCutcheon from Pexels <br>
+Images: Photo by Helena Lopes from Pexels <br>
+Images: Photo by Aline Viana Prado from Pexels <br>
 
 # 3. The Target Audience
 <p>
