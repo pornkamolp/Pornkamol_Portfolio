@@ -5,7 +5,7 @@
 
 | Project Proposal | First Development | Second Development|  Final Design |
 | ------------- | ------------- | ------------- | ------------- |
-| [Part 1](/FinalPart1.md) | [Part 2](/FinalPart2.md)  | [Part 3](/FinalPart3.md) |  [Final](/FinalPart3.md) |
+| [Part 1](/FinalPart1.md) | [Part 2](/FinalPart2.md)  | [Part 3](/FinalPart3.md) |  [Final](https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html) |
 
 # 1. The Process
 
