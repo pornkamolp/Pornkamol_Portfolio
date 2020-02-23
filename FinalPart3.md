@@ -48,3 +48,27 @@ This project targets those without a background in statistics or data, so the to
 <p>
 In order to engage this group of audience, I try to simplify charts or graphs used by only emphasizing the related information.  I used descriptive languages and contextual icons (rather than only numbers and texts), so it is skimmable and easy to understand by anyone.  Moreover, infographic is used in some data visualization to make the context more interesting.
 </p>
+
+# 4. Finalizing the Project
+<p>
+The main thing that I have done after the last part (digital wireframe, user testing, and first development) is the graphical identity and consistency of all the visualization.  By using Tableau, the draft of the visualization is created; however, they were in different styles and not consistent.  This does not only affect the aesthetic of the overall passage but can hugely affect how users understand the content.  Therefore, I reviewed all graph and chart, design a guideline, and applied to all the artifacts.  For example, bright red is used to highlight or with a focused area.
+</p>
+<p>
+Moreover, after fitting some of the visualizations to Shorthand's reveal image function, some infographic within the chart was adjusted to fit seamlessly with effect from Shorthand.
+</p>
+
+<p>
+Lastly, from the comments I received, the last call to action part required too much effort from the audience, and there is less tendency that most of them will join.  Therefore, the call to action is changed from letting the audience brainstorm ideas to solve the problem to encouraging them to observe their own or their loved ones' behavior if they are negatively affected by the social media from some information provided by the external media.
+</p>
+
+# 5. Observations
+<p>
+After all, one important thing I learned is that telling stories with a support of data is like editing a movie.  It is not easy to make the story interesting, but there are several tools we can use, such as a story arc, etc.  However, to tie several pieces of data together in order to support an argument is so fragile because the author can easily manipulate it to tell various stories.  Therefore, creativity should also come with ethics while crafting a story with data.
+</p>
+
+# 6. Final
+<p>
+Take a look at the final piece at [https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html](https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html)
+</p>
+
+![Screenshot](screenshot.png)
