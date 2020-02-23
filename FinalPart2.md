@@ -1,4 +1,4 @@
-# Final Project (Part 2)
+# Final Project (Part 2: First Development)
 16 Febuary 2020
 <br>
 [Back to main page](/README.md)
