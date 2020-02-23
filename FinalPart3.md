@@ -16,9 +16,13 @@ The process of the project is seperated into 3 main parts and more details for e
 In the part 1, I explore the story arch or the overall straucture of the datavisualization, did a research on the avaiable dataset on my domain and did an initail sketches for my wireframe.
 </p>
 
+![Screenshot](part1_illus.jpg)
+
 <p>
 In the second part, all the rough sketches in the previous phase were re created into a digital version.  The user testing was conducted using those digital mockups and the design was improved utilizing the results of the user testing.
 </p>
+
+![Screenshot](part2_illus.jpg)
 
 <p>
 In this part, I moved on developing and finalizing the data visualization artifacts as well as the overll content on an online platform called Shorthand.
