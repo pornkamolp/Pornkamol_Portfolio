@@ -78,7 +78,9 @@ After all, one important thing I learned is that telling stories with a support 
 
 # 6. Final
 <p>
-Take a look at the final piece at [https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html](https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html)
+Take a look at the final piece at 
 </p>
+
+[Final](https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html)
 
 ![Screenshot](screenshot.png)
