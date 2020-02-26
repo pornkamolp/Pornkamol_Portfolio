@@ -3,12 +3,9 @@ My portfolio for Telling Story with Data at CMU
 
 # Link to Assignment
 
-[Assignment 2](/Week2.md)<br>
-[Assignment 3 & 4](/Week3.md)<br>
-[Final Project (Part 1)](/FinalPart1.md)<br>
-[Final Project (Part 2)](/FinalPart2.md)<br>
-[Final Project (Part 3)](/FinalPart3.md)<br>
-[Final Project (Final Piece)](https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html)
+| The general government debt | Birth and death rate around the world | Final Part 1|  Final Part 2 | Final Part 3 | Final Design |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Assignment 2](/Week2.md) | [Assignment 3 & 4](/Week3.md)  | [Final Project (Part 1)](/FinalPart1.md) |  [Final Project (Part 2)](/FinalPart2.md) | [Final Project (Part 3)](/FinalPart3.md) | [Final Project (Final Piece)](https://carnegiemellon.shorthandstories.com/socialmedia-youth-and-depression/index.html) |
 
 # About Me
 I am Pornkamol Prapapornvorakul. What a long Thai name!  Fah is my nickname so you might call me by "Fah".
